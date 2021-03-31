@@ -5,6 +5,8 @@ public class Unboxing {
     public static void main(String[] args) {
         int i = new Integer(3);
 
+        int integer = new Integer(100);
+
         int inteiro = Integer.valueOf(1024);
 
         //boolean b = new Boolean(true);

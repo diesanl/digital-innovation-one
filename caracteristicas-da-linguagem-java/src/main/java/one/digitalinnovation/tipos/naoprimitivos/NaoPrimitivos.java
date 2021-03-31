@@ -2,7 +2,7 @@ package one.digitalinnovation.tipos.naoprimitivos;
 
 public class NaoPrimitivos {
 
-    public static void main(String[] args) {
+public static void main(String[] args) {
 
         String texto = "Meu texto para apresentação"; //Sequência de caracteres
 
